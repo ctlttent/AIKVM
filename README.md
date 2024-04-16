@@ -19,12 +19,9 @@ AIKVM 新加坡 VPS 最低配置为:
 - 官方网站:[https://www.aikvm.com](https://www.aikvm.com/aff.php?aff=136)
 - 优惠码: [7ORYUE18FG](https://www.aikvm.com/aff.php?aff=136) (亚洲区五折)
 
-  ![image](https://github.com/ctlttent/AIKVM/assets/157688393/63fac3cc-fae5-494c-8f9e-c74760994c89)
-
-
 
 | 名称       | 价格        | 内存     | 处理器        | 硬盘        | 带宽     | 流量    | 购买地址     | 
-|------------|-------------|----------|---------------|-------------|----------|---------|
+|------------|-------------|----------|---------------|-------------|----------|---------|---------|
 | 1024MB     | ￥64.35CNY/月 | 1024MB   | 单核处理器     | 25GB        | 5Mbps    | 无限     | [立即购买](https://www.aikvm.com/aff.php?aff=136)     |
 | 1024MB-PLUS| ￥97.50CNY/月 | 1024MB   | 双核处理器     | 30GB        | 5Mbps    | 无限     | [立即购买](https://www.aikvm.com/aff.php?aff=136)     |
 | 1536MB     | ￥130.00CNY/月| 1536MB   | 双核处理器     | 35GB        | 5Mbps    | 无限     | [立即购买](https://www.aikvm.com/aff.php?aff=136)     |
@@ -41,7 +38,6 @@ AIKVM 新加坡 VPS 最低配置为:
 ### 本地 Ping 延迟
 
 本地 Ping 平均延迟在**131ms**左右,网络较为**稳定**,基本**无丢包**情况。
-![image](https://github.com/ctlttent/AIKVM/assets/157688393/0288fe81-8873-41e6-988c-45ac4ac0e73a)
 
 ### 全国三网 Ping 延迟
 
@@ -51,7 +47,6 @@ AIKVM 新加坡 VPS 最低配置为:
 - 电信:**114ms** 
 - 联通:**94ms**
 - 移动:**84ms**
-![image](https://github.com/ctlttent/AIKVM/assets/157688393/540ffabb-0a23-48a0-9d69-b1771249c0e5)
 
 ### 全球网络稳定性
 
@@ -62,11 +57,9 @@ AIKVM 新加坡 VPS 最低配置为:
 - 电信:广州出口 -> 东京 -> 香港 -> 新加坡
 - 联通:北京出口 -> 首尔 -> 香港 -> 新加坡
 - 移动:上海出口 -> 香港 -> 新加坡
-![image](https://github.com/ctlttent/AIKVM/assets/157688393/9c80951e-d056-4067-986e-bad17483d776)
 
 ## 结论
 
 **AIKVM 新加坡 VPS** 最低配置价格为**64元/月**,性价比较高。网络质量方面,平均延迟在**100ms**左右,基本能满足建站、代理等需求。电信网络稳定性一般,联通和移动网络表现不错。
 
 对新加坡 VPS 感兴趣的用户,可以考虑选择 AIKVM。通过本文提供的**优惠码**  [7ORYUE18FG](https://www.aikvm.com/aff.php?aff=136) (亚洲区五折) 还能享受不错的折扣。
-
